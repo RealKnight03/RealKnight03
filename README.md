@@ -1,4 +1,4 @@
-<img src="watermarked_img_8136331889640106256.jpg">
+<img src="banner.png" alt="RealKnight03 Banner">
 
 
 <h1 align="center">Howdy, my name is RealKnight03</h1>
