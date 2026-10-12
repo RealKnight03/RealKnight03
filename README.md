@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/beagGqU.png">
+<img src="https://ibb.co/JjCFN5pG">
 
 <h1 align="center">Howdy, my name is RealKnight03</h1>
 <h3 align="center">A 23 y/o Beginner Developer from the United Kingdom, I am learning HTML & C# using VS Code</h3>
