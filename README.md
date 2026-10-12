@@ -1,4 +1,5 @@
-<img src="file:///C:/Users/ashle/Downloads/73adcac8-9842-40f3-8ce6-7c7758c28abb.jpg">
+<img src="watermarked_img_8136331889640106256.jpg">
+
 
 <h1 align="center">Howdy, my name is RealKnight03</h1>
 <h3 align="center">A 23 y/o Beginner Developer from the United Kingdom, I am learning HTML & C# using VS Code</h3>
